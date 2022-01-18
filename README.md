@@ -1,2 +1,2 @@
-# introduction-to-data-science-labs
+# Introduction To Data Science Labs
 Introduction to Data Science FER labs
